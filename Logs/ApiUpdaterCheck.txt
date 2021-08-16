@@ -1,0 +1,77 @@
+[api-updater (non-obsolete-error-filter)] 13/08/2021 20:40:01 : Starting /home/gabriel/Unity/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 603,922ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 512ms
+candidates check time : 49ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 13/08/2021 20:41:59 : Starting /home/gabriel/Unity/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 68,302ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 283ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/08/2021 20:43:12 : Starting /home/gabriel/Unity/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 63,993ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 271ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/08/2021 20:46:59 : Starting /home/gabriel/Unity/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 66,185ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 266ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14/08/2021 14:34:17 : Starting /home/gabriel/Unity/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 494,285ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 411ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14/08/2021 14:34:57 : Starting /home/gabriel/Unity/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57,18ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 238ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15/08/2021 16:06:06 : Starting /home/gabriel/Unity/2020.3.14f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /home/gabriel/Área de Trabalho/Escape room yohana/Jogo Yohana Scape Room/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <f4220ae6b779455d88a01cbcc3c694c1>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 530,958ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 422ms
+candidates check time : 34ms
+console write time    : 0ms
+
